@@ -1,5 +1,5 @@
 # blinding
-Short script for blinding a folder of images. Requires python 3.0.
+Short script for blinding a folder of images, useful for image analysis in research. Requires python 3.0.
 
 Save script to a specific folder, navigate to that folder in cmd and then run the script, specifying the folder to be blinded
 
