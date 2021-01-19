@@ -8,3 +8,4 @@ Open cmd in windows
 Cd (Drag folder containing script here) # Sets directory
 py blinding.py # Will run the script. 
 
+Adapted from a script I've used for a number of years - I'm not sure where the original came from but it was depreciated with python 3.0
